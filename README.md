@@ -1,7 +1,7 @@
 # AlienMonster
-A simple 2D HTML5 browser game
+HTML5 2D browser shoot-em up created using Construct 2.
 
-Created via Construct 2 engine
+Detailed Documentary: Please visit http://linkevin.me/alienmonster-construct2-game-engine/
 
 To run:
 Copy HTML5Export folder to web server
